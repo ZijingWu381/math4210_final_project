@@ -1,0 +1,16 @@
+
+h5py
+seaborn
+matplotlib
+wandb
+plotly # For wandb logging matplotlib figures
+pandas
+numpy
+scipy
+jupyter
+tqdm
+tensorboardX
+scikit-learn
+python
+pip
+attrdict
